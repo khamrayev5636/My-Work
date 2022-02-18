@@ -98,7 +98,11 @@
 }
 
 @media (max-width: 992px){}
-@media (max-width: 768px){}
+@media (max-width: 768px){
+ .capabilities__img{
+     width:100%;
+    }
+}
 @media (max-width: 576px){
  
   .works__item{
